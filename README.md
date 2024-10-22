@@ -10,7 +10,7 @@ Html, CSS, JavaScript
 Clear Concept: 
 flex, user-select, position, animation
 
-Color; 
+Color: 
 #fff, 
 #000, 
 #db1d4b, 
